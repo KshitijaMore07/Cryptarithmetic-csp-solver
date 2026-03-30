@@ -1,0 +1,2 @@
+# Cryptarithmetic-csp-solver
+A web-based CryptArithmetic puzzle solver built using Constraint Satisfaction Problem (CSP) techniques and backtracking algorithm. This project allows users to input puzzles like SEND + MORE = MONEY and find valid digit assignments.
