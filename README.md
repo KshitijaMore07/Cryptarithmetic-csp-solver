@@ -64,7 +64,7 @@ cryptarithmetic-csp-solver/
 
 Step 1: Clone Repository
 
-git clone https://github.com/your-username/cryptarithmetic-csp-solver.git
+git clone https://github.com/KshitijaMore07/cryptarithmetic-csp-solver.git
 cd cryptarithmetic-csp-solver
 
 Step 2: Install Dependencies
